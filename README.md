@@ -1,3 +1,3 @@
 # Devops
 
-we will do the trainig 
+we will do the training 
