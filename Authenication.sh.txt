@@ -10,5 +10,10 @@ difference=$((num1 - num2))
 product=$((num1 * num2))
 division=$((num1 / num2))
 
+# Display the results
+echo "Sum: $sum"
+echo "Difference: $difference"
+echo "Product: $product"
+echo "Division: $division"
 
 
